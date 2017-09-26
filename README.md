@@ -1,5 +1,5 @@
 # Survey
 
-Application that need a xml output which belongs to a survey custom components. 
+User interface to handle XML to generate Survey components.
 
 All created with ReactJS.
