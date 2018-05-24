@@ -1,8 +1,8 @@
 # Survey
 
-User Interface that handle XML tags to create survey components (input, file, select, radio, date, checkbox, textarea, branch).
-This User Interface use components to delegate the correct XML generated to a Render (XSL template) who prints all the survey.
+User Interface that handle XML to create question type components (input, file, select, radio, date, checkbox, textarea, branch).
+The UI handles the correct XML generated which is passed to a Render (XSL template) who prints the survey in real time.
 
-$('#code') jquery variable contains at all times the XML rendered.
+$('#code') variable contains at all times the XML rendered.
 
-All created with ReactJS.
+All created with ReactJS library.
